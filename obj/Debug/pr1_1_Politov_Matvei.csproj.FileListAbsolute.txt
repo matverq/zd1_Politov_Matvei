@@ -1,0 +1,7 @@
+C:\Политов ПР-21\pr1_1_Politov_Matvei\bin\Debug\pr1_1_Politov_Matvei.exe.config
+C:\Политов ПР-21\pr1_1_Politov_Matvei\bin\Debug\pr1_1_Politov_Matvei.exe
+C:\Политов ПР-21\pr1_1_Politov_Matvei\bin\Debug\pr1_1_Politov_Matvei.pdb
+C:\Политов ПР-21\pr1_1_Politov_Matvei\obj\Debug\pr1_1_Politov_Matvei.csproj.CoreCompileInputs.cache
+C:\Политов ПР-21\pr1_1_Politov_Matvei\obj\Debug\pr1_1_Politov_Matvei.exe
+C:\Политов ПР-21\pr1_1_Politov_Matvei\obj\Debug\pr1_1_Politov_Matvei.pdb
+C:\Политов ПР-21\pr1_1_Politov_Matvei\obj\Debug\pr1_1_Politov_Matvei.csproj.AssemblyReference.cache
